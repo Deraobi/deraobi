@@ -1,4 +1,5 @@
 ### Hey 👋, I'm Precious!!
+A student of Molecular Biology interested in Coding.
 
 
 <!--
