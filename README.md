@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Precious!!
-A student of Molecular Biology interested in Coding and Anime
+A student of Molecular Biology interested in Software Testing
 
 
 <!--
@@ -7,8 +7,7 @@ A student of Molecular Biology interested in Coding and Anime
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning software development
-- 🌱 I’m currently learning Python and Html
+- 🔭 I’m currently working on learning software testing
 - 👯 I’m looking to collaborate on projrct for beginners
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
